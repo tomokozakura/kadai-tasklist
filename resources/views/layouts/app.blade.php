@@ -8,8 +8,7 @@
     </head>
 
     <body>
-        
- 　　　@include('commons.navbar')
+        @include('commons.navbar')
  　　　　
         <div class="container">
             @include('commons.error_tasks')
